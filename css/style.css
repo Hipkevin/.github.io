@@ -1,0 +1,44 @@
+body{
+	margin-left: 20%;
+	margin-right: 20%;
+	padding: 0px 0px 0px 0px;
+	font-family: Microsoft YaHei;
+	background-color:#EFEFEF;
+}
+
+#homepage{
+	padding-left:5%;
+	padding-right:5%;
+	padding-bottom:1%;
+	background-color:white;
+	border: 2px dotted #13227a;
+}
+
+#cardbox h1,h2,p{
+	color: #13227a;
+}
+
+#info{
+	padding-top:1%;
+	padding-bottom:1%;
+	padding-left:1%;
+	background-color:#13227a;
+}
+
+a{
+	color: black;
+	text-decoration: none;
+}
+
+a:hover{
+	color: #13227a;
+}
+
+
+.submitbutton {
+    text-align: center;
+}
+
+.tableHead {
+	color:white;
+}
